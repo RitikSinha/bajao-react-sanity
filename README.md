@@ -12,6 +12,6 @@ Sanity.io
 
 #### Screenshots
 
-![web]()
-![web]()
-![phone]()
+![web](https://raw.githubusercontent.com/RitikSinha/bajao-react-sanity/master/screenshots/1.png)
+![web](https://raw.githubusercontent.com/RitikSinha/bajao-react-sanity/master/screenshots/2.png)
+![phone](https://raw.githubusercontent.com/RitikSinha/bajao-react-sanity/master/screenshots/3.png)
